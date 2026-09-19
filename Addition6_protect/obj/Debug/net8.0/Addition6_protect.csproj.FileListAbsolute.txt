@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\bin\Debug\net8.0\Addition6_protect.exe
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\bin\Debug\net8.0\Addition6_protect.deps.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\bin\Debug\net8.0\Addition6_protect.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\bin\Debug\net8.0\Addition6_protect.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\bin\Debug\net8.0\Addition6_protect.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\refint\Addition6_protect.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\Addition6_protect.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\Addition6_protect\obj\Debug\net8.0\ref\Addition6_protect.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Addition6_protect/1.0.0": {
+        "runtime": {
+          "Addition6_protect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Addition6_protect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
