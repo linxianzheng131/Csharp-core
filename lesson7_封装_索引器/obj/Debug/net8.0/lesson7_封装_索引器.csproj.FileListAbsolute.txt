@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\bin\Debug\net8.0\lesson7_封装_索引器.exe
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\bin\Debug\net8.0\lesson7_封装_索引器.deps.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\bin\Debug\net8.0\lesson7_封装_索引器.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\bin\Debug\net8.0\lesson7_封装_索引器.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\bin\Debug\net8.0\lesson7_封装_索引器.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\refint\lesson7_封装_索引器.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\lesson7_封装_索引器.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson7_封装_索引器\obj\Debug\net8.0\ref\lesson7_封装_索引器.dll
