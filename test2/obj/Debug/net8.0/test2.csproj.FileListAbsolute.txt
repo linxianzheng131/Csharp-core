@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\bin\Debug\net8.0\test2.exe
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\bin\Debug\net8.0\test2.deps.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\bin\Debug\net8.0\test2.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\bin\Debug\net8.0\test2.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\bin\Debug\net8.0\test2.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\refint\test2.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\test2.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\test2\obj\Debug\net8.0\ref\test2.dll
