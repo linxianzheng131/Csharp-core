@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lesson23_面对对象相关_String方法/1.0.0": {
+        "runtime": {
+          "lesson23_面对对象相关_String方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson23_面对对象相关_String方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

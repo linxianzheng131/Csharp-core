@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\bin\Debug\net8.0\lesson23_面对对象相关_String方法.exe
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\bin\Debug\net8.0\lesson23_面对对象相关_String方法.deps.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\bin\Debug\net8.0\lesson23_面对对象相关_String方法.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\bin\Debug\net8.0\lesson23_面对对象相关_String方法.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\bin\Debug\net8.0\lesson23_面对对象相关_String方法.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\refint\lesson23_面对对象相关_String方法.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\lesson23_面对对象相关_String方法.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lesson23_面对对象相关_String方法\obj\Debug\net8.0\ref\lesson23_面对对象相关_String方法.dll
