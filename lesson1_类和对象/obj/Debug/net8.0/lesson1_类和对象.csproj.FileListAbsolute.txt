@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\bin\Debug\net8.0\lesson1_类和对象.exe
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\bin\Debug\net8.0\lesson1_类和对象.deps.json
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\bin\Debug\net8.0\lesson1_类和对象.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\bin\Debug\net8.0\lesson1_类和对象.dll
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\bin\Debug\net8.0\lesson1_类和对象.pdb
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.dll
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\refint\lesson1_类和对象.dll
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.pdb
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\lesson1_类和对象.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\C#核心教程\C#核心\C#核心\obj\Debug\net8.0\ref\lesson1_类和对象.dll
