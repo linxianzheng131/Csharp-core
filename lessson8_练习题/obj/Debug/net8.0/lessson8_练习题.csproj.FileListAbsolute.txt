@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\bin\Debug\net8.0\lessson8_练习题.exe
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\bin\Debug\net8.0\lessson8_练习题.deps.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\bin\Debug\net8.0\lessson8_练习题.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\bin\Debug\net8.0\lessson8_练习题.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\bin\Debug\net8.0\lessson8_练习题.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\refint\lessson8_练习题.dll
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.pdb
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\lessson8_练习题.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\Csharp核心教程\C#核心\lessson8_练习题\obj\Debug\net8.0\ref\lessson8_练习题.dll
